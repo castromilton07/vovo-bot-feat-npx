@@ -1,0 +1,10 @@
+node_modules
+logs
+yarn-error.log
+session.data.json
+yarn.lock
+
+# managed
+**.data.json
+**.node-persist**
+# end managed

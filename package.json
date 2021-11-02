@@ -1,0 +1,14 @@
+{
+  "name": "bom_dia_familia",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@open-wa/wa-automate": "^4.23.6",
+    "jimp": "^0.16.1",
+    "pensador-api": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
